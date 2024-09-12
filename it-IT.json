@@ -1,0 +1,19 @@
+{
+    "howToFindVINs": "Come trovare i tuoi VIN",
+    "addDeviceText1": "Il tuo VIN si trova più frequentemente sul cruscotto interno lato conducente o all'interno del montante della portiera lato conducente",
+    "addDeviceText2": "Puoi anche trovare il tuo VIN sulla tua tessera assicurativa come parte dei dettagli elencati o all'interno dei documenti del tuo veicolo.",
+    "addVehicle": "AGGIUNGI VEICOLO",
+    "typeVIN": "Digita il tuo VIN",
+    "enterVINNumber": "Inserisci il numero VIN",
+    "next": "Avanti",
+    "confirmVINText": "Prima di continuare, assicurati che il VIN sia stato inserito correttamente.",
+    "pleaseVerify": "Verifica",
+    "continue": "Continua",
+    "enterVehicleInfo": "Inserisci marca, modello e anno del tuo veicolo",
+    "nameCannotBlank": "Il nome non può essere vuoto",
+    "year": "Anno",
+    "currentMileage": "Attuale Chilometraggio",
+    "enterFullIMEI": "Inserisci il numero IMEI completo riportato sul retro del tuo dispositivo Bouncie.",
+    "fullIMEI": "IMEI completo",
+    "submitting": "Invio..."
+}

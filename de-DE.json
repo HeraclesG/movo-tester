@@ -1,0 +1,19 @@
+{
+    "howToFindVINs": "So finden Sie Ihre VINs",
+    "addDeviceText1": "Ihre VIN finden Sie am häufigsten auf dem Armaturenbrett auf der Fahrerseite oder im Türpfosten auf der Fahrerseite",
+    "addDeviceText2": "Sie finden Ihre VIN auch auf Ihrer Versicherungskarte als Teil der aufgeführten Details oder in Ihren Fahrzeugdokumenten.",
+    "addVehicle": "FAHRZEUG HINZUFÜGEN",
+    "typeVIN": "Geben Sie Ihre VIN ein",
+    "enterVINNumber": "Geben Sie die VIN-Nummer ein",
+    "next": "Weiter",
+    "confirmVINText": "Bevor Sie fortfahren, stellen Sie sicher, dass die VIN richtig eingegeben wurde.",
+    "pleaseVerify": "Bitte überprüfen",
+    "continue": "Weiter",
+    "enterVehicleInfo": "Geben Sie Marke, Modell und Baujahr Ihres Fahrzeugs ein",
+    "nameCannotBlank": "Name darf nicht leer sein",
+    "year": "Baujahr",
+    "currentMileage": "Aktueller Kilometerstand",
+    "enterFullIMEI": "Bitte geben Sie die vollständige IMEI-Nummer auf der Rückseite Ihres Bouncie-Geräts ein.",
+    "fullIMEI": "Vollständige IMEI",
+    "submitting": "Senden..."
+}

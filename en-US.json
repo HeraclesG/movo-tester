@@ -1,0 +1,19 @@
+{
+  "howToFindVINs": "How to find your VINs",
+    "addDeviceText1": "Your VIN can most frequently be found on the driver-side interior dash, or inside the driver-side door post",
+    "addDeviceText2": "You can also find your VIN on your insurance card as part of the details listed or within your vehicle documents.",
+    "addVehicle": "ADD VEHICLE",
+    "typeVIN": "Type your VIN",
+    "enterVINNumber": "Enter VIN number",
+    "next": "Next",
+    "confirmVINText": "Before continuing, make certain the VIN has been entered properly.",
+    "pleaseVerify": "Please verify",
+    "continue": "Continue",
+    "enterVehicleInfo": "Enter the make, model, and year of your vehicle",
+    "nameCannotBlank": "Name cannot be blank",
+    "year": "Year",
+    "currentMileage": "Current Mileage",
+    "enterFullIMEI": "Please enter the full IMEI number on the back of your Bouncie device.",
+    "fullIMEI": "Full IMEI",
+    "submitting": "Submitting..."
+}

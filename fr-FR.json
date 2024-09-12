@@ -1,0 +1,19 @@
+{
+    "howToFindVINs": "Comment trouver vos NIV",
+    "addDeviceText1": "Votre NIV se trouve le plus souvent sur le tableau de bord intérieur côté conducteur ou à l'intérieur du montant de la portière côté conducteur",
+    "addDeviceText2": "Vous pouvez également trouver votre NIV sur votre carte d'assurance dans le cadre des détails répertoriés ou dans les documents de votre véhicule.",
+    "addVehicle": "AJOUTER UN VÉHICULE",
+    "typeVIN": "Tapez votre NIV",
+    "enterVINNumber": "Entrez le numéro NIV",
+    "next": "Suivant",
+    "confirmVINText": "Avant de continuer, assurez-vous que le NIV a été saisi correctement.",
+    "pleaseVerify": "Veuillez vérifier",
+    "continue": "Continuer",
+    "enterVehicleInfo": "Entrez la marque, le modèle et l'année de votre véhicule",
+    "nameCannotBlank": "Le nom ne peut pas être vide",
+    "year": "Année",
+    "currentMileage": "Kilométrage actuel",
+    "enterFullIMEI": "Veuillez saisir le numéro IMEI complet au dos de votre appareil Bouncie.",
+    "fullIMEI": "IMEI complet",
+    "submitting": "Envoi en cours..."
+}

@@ -1,0 +1,19 @@
+{
+    "howToFindVINs": "Cómo encontrar su VIN",
+    "addDeviceText1": "Su VIN se puede encontrar con mayor frecuencia en el tablero interior del lado del conductor o dentro del poste de la puerta del lado del conductor",
+    "addDeviceText2": "También puede encontrar su VIN en su tarjeta de seguro como parte de los detalles que se detallan o dentro de los documentos de su vehículo.",
+    "addVehicle": "AGREGAR VEHÍCULO",
+    "typeVIN": "Escriba su VIN",
+    "enterVINNumber": "Ingrese el número de VIN",
+    "next": "Siguiente",
+    "confirmVINText": "Antes de continuar, asegúrese de que el VIN se haya ingresado correctamente.",
+    "pleaseVerify": "Verifique",
+    "continue": "Continuar",
+    "enterVehicleInfo": "Ingrese la marca, el modelo y el año de su vehículo",
+    "nameCannotBlank": "El nombre no puede estar en blanco",
+    "year": "Año",
+    "currentMileage": "Actual Kilometraje",
+    "enterFullIMEI": "Ingrese el número IMEI completo que se encuentra en la parte posterior de su dispositivo Bouncie.",
+    "fullIMEI": "IMEI completo",
+    "submitting": "Enviando..."
+}
